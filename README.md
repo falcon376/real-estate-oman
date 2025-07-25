@@ -1,4 +1,4 @@
-# 🏠 Dubizzle and Bayuti Oman Property Scraper
+# 🏠 Dubizzle and Bayuti Oman Property
 
 A Python web scraper that extracts real estate listings from [Dubizzle Oman - Properties for Sale](https://www.dubizzle.com.om/en/properties/properties-for-sale/) and saves them into a structured CSV file.# 🏢 Bayut Oman Property Scraper
 
